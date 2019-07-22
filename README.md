@@ -7,6 +7,8 @@ email:3256749473@qq.com
 GitHub:github.com/zwaterrx
 
 
+Please go to wiki for more information
+
 
 
 
